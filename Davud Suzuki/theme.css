@@ -1,0 +1,97 @@
+body{
+	text-align: center;
+	background-image: url(forest.jfif);
+	background-attachment: fixed;
+	background-size: cover;
+	background-repeat: none;
+	
+}
+h1{ 
+	color: black;
+	font-family: 'Rock Salt', cursive;
+	text-decoration: underline;
+	font-size: 70;
+	margin-top: 0px;
+}
+h2{
+font-family: 'Caveat', cursive;
+text-decoration: underline;
+font-size: 40;
+	
+}
+p{
+	font-family: 'Caveat', cursive;
+}
+
+span{
+	font-weight: bold;
+	font-size: 30;
+	color: black;
+}
+
+hr{
+	width: 620;
+}
+div.link{
+	font-size: 28;
+	color: black;
+	margin-right: auto;
+	margin-left: auto;
+	
+	width: 520;
+}
+
+div.note{
+	background-image: url(page3.jpg);
+	background-size: cover;
+	margin-left: auto;
+	margin-right: auto;
+	width: 620px;
+	border-radius: 20px;
+	border: 4px solid black;
+	padding: 20px;
+	font-size: 25;
+	margin-bottom: 40px;
+}
+
+div.top{
+	background-image: url(page3.jpg);
+	background-size: cover;
+	margin-left: auto;
+	margin-right: auto;
+	width: 620px;
+	
+	border-radius: 20px;
+	border: 4px solid black;
+	padding: 20px;
+	font-size: 25;
+	margin-bottom: 40px;
+	margin-top: 60px;
+}
+table, td, th{
+	
+	border: 3px solid black;
+}
+table{
+	border-collapse: collapse;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 24;
+}
+div.img{
+padding-left: 250px;
+padding-right:250px;	
+	
+	
+}
+img.right{
+	float: right;
+	border: 10px solid black;
+	width; 300px;
+}
+
+img.left{
+	float: left;
+	border: 10px solid black;
+	
+}
